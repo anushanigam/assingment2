@@ -1,0 +1,13 @@
+h4{
+    float: right;
+}
+
+.card-title{
+    width:80px;
+    float: right;
+}
+
+p{
+    margin-top: 40px;
+    padding: 20px;
+}
